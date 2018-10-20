@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E1614DAF-BB35-F8AE-2731-232FDBB760E5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/moveByX.cs">
+    <Files>
+      <File FileName="Assets/2d-mega-pack/Scripts/2D Platformer/Video30/GameMaster.cs" Line="5" Column="1" />
+      <File FileName="Assets/2d-mega-pack/Scripts/2D Platformer/Video30/Enemy.cs" Line="5" Column="1" />
+      <File FileName="Assets/cameraFollow.cs" Line="30" Column="1" />
+      <File FileName="Assets/moveTo_Y.cs" Line="24" Column="9" />
+      <File FileName="Assets/moveByX.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
